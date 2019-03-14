@@ -1,2 +1,7 @@
+face_recognition
+cv2
+pandas
+scipy
+pyaudio
 numpy==1.14.2
 opencv-contrib-python==3.4.0.12

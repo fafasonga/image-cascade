@@ -1,7 +1,181 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da5700b3-b711-42d7-8672-76465f0d3be3" name="Default" comment="" />
+    <list default="true" id="da5700b3-b711-42d7-8672-76465f0d3be3" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/face_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000015.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000041.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000046.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000065.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/alan_grant/00000089.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000000.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000033.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000037.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000038.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000041.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000043.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000052.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000054.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000055.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000060.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000062.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000068.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000071.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000072.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000073.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000074.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000075.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000076.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000078.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000081.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/claire_dearing/00000083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000023.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000031.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000036.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000048.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000050.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000062.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000069.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000072.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000074.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000082.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000086.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000088.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/ian_malcolm/00000092.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000018.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000019.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000020.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000021.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000027.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000030.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000034.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000035.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000047.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000059.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000068.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000070.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000083.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/owen_grady/00000086.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img_seq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/motion_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/motion_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/motion_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/motion_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plot_motion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sound_detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/camera-test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/camera-test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/facecap.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/facecap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/SONGA Fabrice/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/SONGA Fabrice/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/SONGA Fabrice/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/SONGA Fabrice/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/SONGA Fabrice/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pickles/face-labels.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/src/pickles/face-labels.pickle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recognizers/face-trainner.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/recognizers/face-trainner.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,32 +184,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="facecap.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/facecap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="facetrain.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/facetrain.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.48690152">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="facetrain.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/facetrain.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+                  <folding>
+                    <element signature="e#0#10#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="facecap.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/facecap.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="408">
+                  <caret line="52" selection-start-line="52" selection-end-line="52" />
+                  <folding>
+                    <element signature="e#0#9#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="facecap.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/facecap.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="52" selection-start-line="52" selection-end-line="52" />
+                  <folding>
+                    <element signature="e#0#9#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,13 +238,40 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>lar</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/faces.py" />
         <option value="$PROJECT_DIR$/src/lessons/filter_lesson.py" />
-        <option value="$PROJECT_DIR$/src/facecap.py" />
         <option value="$PROJECT_DIR$/src/facetrain.py" />
+        <option value="$PROJECT_DIR$/src/img_seq.py" />
+        <option value="$PROJECT_DIR$/src/classifier.py" />
+        <option value="$PROJECT_DIR$/src/face_detection.py" />
+        <option value="$PROJECT_DIR$/src/camera-test.py" />
+        <option value="$PROJECT_DIR$/src/face_training.py" />
+        <option value="$PROJECT_DIR$/src/age_test.py" />
+        <option value="$PROJECT_DIR$/src/sound_detect.py" />
+        <option value="$PROJECT_DIR$/sound_detection.py" />
+        <option value="$PROJECT_DIR$/src/facecap.py" />
+        <option value="$PROJECT_DIR$/src/motion_detect.py" />
+        <option value="$PROJECT_DIR$/src/motion_detection.py" />
+        <option value="$PROJECT_DIR$/src/motion_test.py" />
+        <option value="$PROJECT_DIR$/src/motion_detector.py" />
+        <option value="$PROJECT_DIR$/src/plot_motion.py" />
+        <option value="$PROJECT_DIR$/src/test.py" />
+        <option value="$PROJECT_DIR$/src/face_recognition/recognize_faces_image.py" />
+        <option value="$PROJECT_DIR$/src/face_recognition/recognize_faces_video_file.py" />
+        <option value="$PROJECT_DIR$/src/face_recognition/recognize_faces_video.py" />
+        <option value="$PROJECT_DIR$/src/face_recognition/encode_face.py" />
       </list>
     </option>
   </component>
@@ -63,6 +284,9 @@
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -85,25 +309,7 @@
               <item name="OpenCV-Python-Series-master" type="b2602c69:ProjectViewProjectNode" />
               <item name="OpenCV-Python-Series-master" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cascades" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenCV-Python-Series-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenCV-Python-Series-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenCV-Python-Series-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenCV-Python-Series-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pickles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="OpenCV-Python-Series-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="OpenCV-Python-Series-master" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="recognizers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,6 +327,18 @@
   </component>
   <component name="PyDebuggerOptionsProvider">
     <option name="mySaveCallSignatures" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/images/SONGA Fabrice" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/face_recognition" />
+      <recent name="$PROJECT_DIR$/src/images" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/sounds" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -154,6 +372,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="encode_face" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCV-Python-Series-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/face_recognition" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/face_recognition/encode_face.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="facecap" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OpenCV-Python-Series-master" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,25 +405,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/facecap.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="faces" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="OpenCV-Python-Series-master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/faces.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,16 +429,58 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="motion_detector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCV-Python-Series-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/motion_detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCV-Python-Series-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.faces" />
-      <item itemvalue="Python.facecap" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.motion_detector" />
+      <item itemvalue="Python.encode_face" />
       <item itemvalue="Python.facetrain" />
+      <item itemvalue="Python.facecap" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.facecap" />
         <item itemvalue="Python.facetrain" />
-        <item itemvalue="Python.faces" />
+        <item itemvalue="Python.encode_face" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.motion_detector" />
       </list>
     </recent_temporary>
   </component>
@@ -239,16 +499,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.32917705" />
       <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="5" side_tool="true" weight="0.3297568" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32917705" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.2468828" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32917705" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32044888" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.24064837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2081545" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -261,7 +522,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32917705" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,26 +532,103 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/faces.py">
+    <entry file="file://$PROJECT_DIR$/src/face_training.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="37" column="81" selection-start-line="35" selection-start-column="12" selection-end-line="37" selection-end-column="81" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="720">
+          <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/faces-train.py">
+    <entry file="file://$PROJECT_DIR$/src/sound_detect.py" />
+    <entry file="file://$PROJECT_DIR$/src/facetrain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        <state relative-caret-position="90">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/camera-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facecap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facetrain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facecap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facecap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facetrain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facecap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/facetrain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/faces.py" />
+    <entry file="file://$PROJECT_DIR$/src/faces-train.py" />
     <entry file="file://$PROJECT_DIR$/src/facetrain.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
@@ -306,37 +644,19 @@
         <state relative-caret-position="495">
           <caret line="35" column="12" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/faces.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="37" column="81" selection-start-line="35" selection-start-column="12" selection-end-line="37" selection-end-column="81" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/faces-train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="33" column="56" selection-start-line="32" selection-start-column="12" selection-end-line="33" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/faces.py" />
+    <entry file="file://$PROJECT_DIR$/src/faces-train.py" />
     <entry file="file://$PROJECT_DIR$/src/facecap.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -351,16 +671,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/faces.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/faces.py" />
     <entry file="file://$PROJECT_DIR$/src/cascades/data/haarcascade_frontalface_alt2.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7086" />
@@ -368,47 +679,186 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lessons/watermark_lesson.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-709">
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-709" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lessons/filter_lesson.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-349">
           <caret line="56" column="10" selection-start-line="56" selection-start-column="10" selection-end-line="56" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/faces.py" />
+    <entry file="file://$PROJECT_DIR$/src/faces-train.py" />
+    <entry file="file://$PROJECT_DIR$/src/img_seq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="31" column="4" selection-start-line="31" selection-start-column="4" selection-end-line="31" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="25" lean-forward="true" selection-start-line="50" selection-start-column="25" selection-end-line="50" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydev_run_in_console.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/face_training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="46" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/camera-test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sound_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#22#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/faces.py">
+    <entry file="file://$PROJECT_DIR$/src/plot_motion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="7" />
+        <state relative-caret-position="390">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#52#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/faces-train.py">
+    <entry file="file://$PROJECT_DIR$/src/motion_detect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        <state>
+          <caret column="10" lean-forward="true" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/motion_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/motion_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="50" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/motion_detector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="112" column="25" selection-start-line="112" selection-start-column="25" selection-end-line="112" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/face_recognition/recognize_faces_video_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="e#290#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/face_recognition/recognize_faces_video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/face_recognition/recognize_faces_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#137#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/face_recognition/encode_face.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="e#113#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/face_detection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/john_hammond/00000002.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/owen_grady/00000004.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/peter-dinklage/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/ellie_sattler/00000005.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/claire_dearing/00000003.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/alan_grant/00000004.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/facetrain.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        <state relative-caret-position="210">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -417,10 +867,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/facecap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="81" column="34" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+        <state relative-caret-position="408">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
